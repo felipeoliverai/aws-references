@@ -1,0 +1,1 @@
+Link: https://aws.amazon.com/pt/blogs/opensource/deploy-machine-learning-models-to-amazon-sagemaker-using-the-ezsmdeploy-python-package-and-a-few-lines-of-code/
